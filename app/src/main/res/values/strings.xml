@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FaasosTest</string>
+    <string name="title_activity_show_map">Map</string>
+    <string name="address">%1$s,%2$s,%3$s-%4$s</string>
+</resources>
